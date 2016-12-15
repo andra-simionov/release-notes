@@ -4,7 +4,14 @@
         {
             "name": "Constantin Oancea",
             "email": "constantin.oancea@payu.ro"
+        },
+        {
+            "name": "Andra Simionov",
+            "email": "andra.simionov@payu.ro"
+        },
+        {
+            "name": "Catalin Hutanu",
+            "email": "catalin.hutanu@payu.ro"
         }
-    ],
-    "require": {}
+    ]
 }
