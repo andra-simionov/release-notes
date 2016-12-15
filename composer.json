@@ -13,5 +13,8 @@
             "name": "Catalin Hutanu",
             "email": "catalin.hutanu@payu.ro"
         }
-    ]
+    ],
+    "require": {
+        "silex/silex": "~2.0"
+    }
 }
